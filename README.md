@@ -1,5 +1,9 @@
 # Two-Sentence Horror
 
+[![make.fun · u-suroto-two-sentence-horror-acea9253](https://make.fun/badge/u-suroto-two-sentence-horror-acea9253.svg)](https://make.fun/bounty/u-suroto-two-sentence-horror-acea9253?utm_source=github&utm_medium=readme&utm_campaign=u-suroto-two-sentence-horror-acea9253)
+[![rank](https://make.fun/badge/u-suroto-two-sentence-horror-acea9253/bbulls013/u-suroto-two-sentence-horror-acea9253/rank.svg)](https://make.fun/bounty/u-suroto-two-sentence-horror-acea9253/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-suroto-two-sentence-horror-acea9253)
+[![reward](https://make.fun/badge/u-suroto-two-sentence-horror-acea9253/bbulls013/u-suroto-two-sentence-horror-acea9253/reward.svg)](https://make.fun/bounty/u-suroto-two-sentence-horror-acea9253?utm_source=github&utm_medium=readme&utm_campaign=u-suroto-two-sentence-horror-acea9253)
+
 Entry for the make.fun bounty **u-suroto-two-sentence-horror-acea9253**
 ("Two-Sentence Horror", $2 pot, deadline 2026-11-27T08:00:00Z).
 
