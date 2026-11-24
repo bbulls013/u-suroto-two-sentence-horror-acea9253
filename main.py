@@ -8,6 +8,7 @@ The story is a fixed string: no randomness, no input, no network.
 Running this program twice produces byte-identical output.
 """
 
+import os
 import sys
 
 STORY = (
@@ -37,6 +38,10 @@ def main():
     assert count_sentences(text) == 2, (
         f"story has {count_sentences(text)} sentences, must be exactly 2"
     )
+
+    # Create the output directory when a custom path points somewhere new.
+    parent = os.path.dirname(os.path.abspath(out_path))
+    os.makedirs(parent, exist_ok=True)
 
     with open(out_path, "w", encoding="utf-8", newline="") as f:
         f.write(text)
